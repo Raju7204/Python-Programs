@@ -1,3 +1,4 @@
+#Checking weather the given number is prime or not.
 n=int(input("Enter the number"))
 flag=0
 m=n//2
